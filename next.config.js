@@ -11,10 +11,10 @@ const nextConfig = {
     ],
   },
   publicRuntimeConfig: {
-    vnp_TmnCode: "GUPKYIQ8",
-    vnp_HashSecret: "EO12YIS8EMYB7RD85QGRLY40IP59ELGO",
+    vnp_TmnCode: "QE4E4CTA",
+    vnp_HashSecret: "DXITNG30RXFI5GLRLCTVI63JORTWL42L",
     vnp_Url: "https://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
-    vnp_ReturnUrl: "https://phadistributionwebv2-production.up.railway.app/api/payments/vnpay_return"  // Đảm bảo URL này đúng
+    vnp_ReturnUrl: "https://phadistributionwebv2-production-7c4f.up.railway.app/api/payments/vnpay_return"  // Đảm bảo URL này đúng
   }
 };
 
